@@ -1,0 +1,138 @@
+# TuteDude Gen AI Course Assignments
+
+**Student Name:** Shrivinayak Birla
+**Course:** GenAI - TuteDude  
+**Repository:** `Tute-Dude-Gen-Ai-Course-Assignments`
+
+Welcome to the master repository containing all assignment solutions for the **TuteDude Gen AI Course**. Each folder corresponds to a core Python programming module covering foundational data structures, control flow, functions, file handling, modular programming, exception handling, and object-oriented programming.
+
+---
+
+## 📁 Repository Structure
+
+```
+TuteDude/
+├── GenAI-Task(Assignment 1)-Shrivinayak_Birla/   # Data Structures (Lists, Tuples, Sets, Dictionaries)
+├── GenAI-Task(Assignment 2)-Shrivinayak_Birla/   # Control Flow & Conditional Statements
+├── GenAI-Task(Assignment 3)-Shrivinayak_Birla/   # Python Functions & Functional Programming
+├── GenAI-Task(Assignment 4)-Shrivinayak_Birla/   # File Handling & Data Processing
+├── GenAI-Task(Assignment 5)-Shrivinayak_Birla/   # Modules, Packages & Import Mechanisms
+├── GenAI-Task(Assignment 6)-Shrivinayak_Birla/   # Exception Handling & Custom Errors
+├── GenAI-Task(Assignment 7)-Shrivinayak_Birla/   # Object-Oriented Programming (OOP)
+├── GenAI-Task(Assignment 8)-Shrivinayak_Birla/   # Streamlit (Basic App Building)
+├── GenAI-Task(Assignment 9)-Shrivinayak_Birla/   # NumPy (Mathematical & Statistical Operations)
+├── GenAI-Task(Assignment 10)-Shrivinayak_Birla/  # Pandas (Series, DataFrame, Functions, Filtering & Analysis)
+├── GenAI-Task(Assignment 11)-Shrivinayak_Birla/  # Matplotlib (Core Plot Types & Visualization)
+├── GenAI-Task(Assignment 12)-Shrivinayak_Birla/  # Seaborn (Relational, Distribution, Categorical & Multi-Plots)
+├── GenAI-Task(Assignment 13)-Shrivinayak_Birla/  # Data Gathering, Preprocessing & EDA
+├── GenAI-Task(Assignment 14)-Shrivinayak_Birla/  # Feature Engineering, Encoding, Scaling & Pipelines
+├── GenAI-Task(Assignment 15)-Shrivinayak_Birla/  # Core Algorithms, Metrics & Model Behavior
+├── GenAI-Task(Assignment 16)-Shrivinayak_Birla/  # NLP Text Preprocessing Pipeline
+├── GenAI-Task(Assignment 17)-Shrivinayak_Birla/  # Text Cleaning & Preprocessing
+├── GenAI-Task(Assignment 18)-Shrivinayak_Birla/  # Text Vectorization (BoW, N-Grams, TF-IDF)
+├── GenAI-Task(Assignment 19)-Shrivinayak_Birla/  # Word2Vec Text Embeddings (CBOW, Skip-Gram, Visuals)
+├── GenAI-Task(Assignment 20)-Shrivinayak_Birla/  # Recommendation System & Render Deployment
+├── GenAI-Task(Assignment 21)-Shrivinayak_Birla/  # LangChain Document Loaders & Splitters
+├── GenAI-Task(Assignment 22)-Shrivinayak_Birla/  # Embeddings, Vector Stores & Similarity Search
+├── GenAI-Task(Assignment 23)-Shrivinayak_Birla/  # OpenAI & Retrieval-Augmented Generation (RAG)
+├── GenAI-Task(Assignment 24)-Shrivinayak_Birla/  # Ollama Chatbot & LangSmith Tracking
+├── GenAI-Task(Assignment 25)-Shrivinayak_Birla/  # Prompting & LangChain Chains (LCEL, Pydantic, RAG)
+├── GenAI-Task(Assignment 26)-Shrivinayak_Birla/  # Groq API Chatbot, RAG & FastAPI Serving
+├── GenAI-Task(Assignment 27)-Shrivinayak_Birla/  # Chatbots with Conversation History (LangChain, Trimming)
+├── GenAI-Task(Assignment 28)-Shrivinayak_Birla/  # Q&A RAG Chatbot with Message History (Grounding, Follow-ups)
+├── GenAI-Task(Assignment 29)-Shrivinayak_Birla/  # Q&A Chatbot Application (OpenAI & Ollama Switching)
+├── GenAI-Task(Assignment 30)-Shrivinayak_Birla/  # Chat Groq RAG Application with Streamlit UI
+├── GenAI-Task(Assignment 31)-Shrivinayak_Birla/  # Conversational PDF Q&A Chatbot with Message History
+├── GenAI-Task(Assignment 32)-Shrivinayak_Birla/  # AI Agents using LangChain (Tools, ReAct Agent)
+├── GenAI-Task(Assignment 33)-Shrivinayak_Birla/  # Chat with SQL Database using LangChain (SQLite, MySQL, SQL Agent)
+├── GenAI-Task(Assignment 34)-Shrivinayak_Birla/  # Text Summarization using LangChain (Stuff, Map-Reduce, Refine)
+├── GenAI-Task(Assignment 35)-Shrivinayak_Birla/  # Text-to-Math Agent (ReAct Solver, Calculator Tool, Session State)
+├── GenAI-Task(Assignment 36)-Shrivinayak_Birla/  # HuggingFace Integration with LangChain (Direct API, LCEL, ChatPromptTemplate)
+├── GenAI-Task(Assignment 37)-Shrivinayak_Birla/  # AstraDB RAG (Cloud Vector Database, PDF Ingestion, Grounding, Streamlit UI)
+├── GenAI-Task(Assignment 38)-Shrivinayak_Birla/  # CodeLlama with Ollama (Developer Coding Assistant, Prompt Engineering, Streamlit)
+└── GenAI-Task(Assignment 39)-Shrivinayak_Birla/  # GenAI App Deployment (Streamlit Cloud, Hugging Face Spaces, CI/CD, YAML Config)
+```
+
+---
+
+## 📚 Assignments Overview
+
+| Assignment | Topic | Key Concepts Covered | Subdirectory Link |
+| :--- | :--- | :--- | :--- |
+| **Assignment 1** | Python Data Structures | Lists, Tuples, Sets, Dictionaries, Mutability, Catalog Management | [`Assignment 1`](./GenAI-Task(Assignment%201)-Shrivinayak_Birla) |
+| **Assignment 2** | Control Flow & Loops | Conditional Logic, For/While Loops, Control Statements (`break`, `continue`, `pass`) | [`Assignment 2`](./GenAI-Task(Assignment%202)-Shrivinayak_Birla) |
+| **Assignment 3** | Python Functions | User Functions, Recursion, Lambda Expressions, `map()` & `filter()`, Menu Logic | [`Assignment 3`](./GenAI-Task(Assignment%203)-Shrivinayak_Birla) |
+| **Assignment 4** | File Handling | Reading/Writing Files (`r`, `w`, `a`), CSV Data Parsing, Sales Report Generation | [`Assignment 4`](./GenAI-Task(Assignment%204)-Shrivinayak_Birla) |
+| **Assignment 5** | Modules & Packages | Custom Modules, Package Initialization (`__init__.py`), Utility Packages | [`Assignment 5`](./GenAI-Task(Assignment%205)-Shrivinayak_Birla) |
+| **Assignment 6** | Exception Handling | `try-except-else-finally`, Exception Types, Input Validation, Custom Exceptions | [`Assignment 6`](./GenAI-Task(Assignment%206)-Shrivinayak_Birla) |
+| **Assignment 7** | Object-Oriented Programming | Classes, Encapsulation, Inheritance, Polymorphism, Abstraction, Magic Methods | [`Assignment 7`](./GenAI-Task(Assignment%207)-Shrivinayak_Birla) |
+| **Assignment 8** | Streamlit Apps | Basic UI, Text/Number Inputs, Sidebar, Calculations, Metrics & Bar Chart | [`Assignment 8`](./GenAI-Task(Assignment%208)-Shrivinayak_Birla) |
+| **Assignment 9** | NumPy Operations | Array Creation, Mathematical Formulas, Axis Aggregations, Statistical Analysis | [`Assignment 9`](./GenAI-Task(Assignment%209)-Shrivinayak_Birla) |
+| **Assignment 10** | Pandas Operations | Series, DataFrames, Filtering, GroupBy, Pandas Built-in Plotting | [`Assignment 10`](./GenAI-Task(Assignment%2010)-Shrivinayak_Birla) |
+| **Assignment 11** | Matplotlib Core Plots | Line, Scatter, Bar, Multiple Bar, Stacked Bar, Histogram, Pie Chart | [`Assignment 11`](./GenAI-Task(Assignment%2011)-Shrivinayak_Birla) |
+| **Assignment 12** | Seaborn Visualizations | Relational, Distribution, Categorical, Matrix, Regression, Faceting | [`Assignment 12`](./GenAI-Task(Assignment%2012)-Shrivinayak_Birla) |
+| **Assignment 13** | Pre-ML Foundations | Data Gathering (CSV/JSON/SQL/API), Preprocessing, Encoding, EDA & Insights | [`Assignment 13`](./GenAI-Task(Assignment%2013)-Shrivinayak_Birla) |
+| **Assignment 14** | Feature Engineering & Pipelines | Feature Engineering, Date Extraction, Encoders, Scalers, Scikit-learn Pipelines | [`Assignment 14`](./GenAI-Task(Assignment%2014)-Shrivinayak_Birla) |
+| **Assignment 15** | Core ML Algorithms & Metrics | Linear/Logistic Regression, Naive Bayes, KNN, Evaluation Metrics, Bias-Variance | [`Assignment 15`](./GenAI-Task(Assignment%2015)-Shrivinayak_Birla) |
+| **Assignment 16** | NLP Text Preprocessing | Text Cleaning (Basic & Advanced), Tokenization, Stopwords, Stemming, Lemmatization, Pipeline | [`Assignment 16`](./GenAI-Task(Assignment%2016)-Shrivinayak_Birla) |
+| **Assignment 17** | Text Cleaning & Preprocessing | Raw Text Inspection, Basic/Advanced Cleaning, Stopwords, Slang, Tokenization, Stemming, Lemmatization, Pipeline | [`Assignment 17`](./GenAI-Task(Assignment%2017)-Shrivinayak_Birla) |
+| **Assignment 18** | Text Vectorization | One-Hot Encoding, Bag of Words (BoW), N-Grams, TF-IDF, Vectorizer Parameters | [`Assignment 18`](./GenAI-Task(Assignment%2018)-Shrivinayak_Birla) |
+| **Assignment 19** | Word2Vec Text Embeddings | Word Embeddings, CBOW, Skip-Gram, Vector Arithmetic, PCA 2D Visualization | [`Assignment 19`](./GenAI-Task(Assignment%2019)-Shrivinayak_Birla) |
+| **Assignment 20** | Recommendation System & Deployment | Content-Based Recommendation, TF-IDF, Cosine Similarity, Streamlit UI, Render Deployment | [`Assignment 20`](./GenAI-Task(Assignment%2020)-Shrivinayak_Birla) |
+| **Assignment 21** | LangChain Document Loaders & Splitters | Document Loaders (Text, CSV, PDF, Directory, Web), Text Splitters (Character, Recursive, Markdown, Semantic), Unified Pipeline | [`Assignment 21`](./GenAI-Task(Assignment%2021)-Shrivinayak_Birla) |
+| **Assignment 22** | Embeddings, Vector Stores & Similarity Search | OpenAI & Hugging Face Embeddings, Ollama Local Setup, FAISS & ChromaDB, Similarity Search Pipeline | [`Assignment 22`](./GenAI-Task(Assignment%2022)-Shrivinayak_Birla) |
+| **Assignment 23** | OpenAI & RAG Systems | OpenAI Chat, WikipediaRetriever, ChromaDB, MMR, Multi-Query, Compression, YouTube RAG Chatbot | [`Assignment 23`](./GenAI-Task(Assignment%2023)-Shrivinayak_Birla) |
+| **Assignment 24** | Ollama Chatbot & LangSmith | Local LLMs (Ollama), Multi-Turn Chatbot Memory, Observability & Tracing (LangSmith) | [`Assignment 24`](./GenAI-Task(Assignment%2024)-Shrivinayak_Birla) |
+| **Assignment 25** | Prompting & LangChain Chains | Prompt Templates, Pydantic Structured Output, Conditional/Parallel Chains, LCEL RAG Pipeline | [`Assignment 25`](./GenAI-Task(Assignment%2025)-Shrivinayak_Birla) |
+| **Assignment 26** | Groq API Chatbot, RAG & FastAPI Serving | Groq LPU Inference, Grounded RAG, FastAPI REST Endpoints, Pydantic Validation | [`Assignment 26`](./GenAI-Task(Assignment%2026)-Shrivinayak_Birla) |
+| **Assignment 27** | Chatbots with Conversation History | Stateful Chatbots, MessagesPlaceholder, History Trimming, Multi-Session Memory | [`Assignment 27`](./GenAI-Task(Assignment%2027)-Shrivinayak_Birla) |
+| **Assignment 28** | Q&A RAG Chatbot with History | Conversational RAG, Document Ingestion, ChromaDB, Contextual Follow-ups | [`Assignment 28`](./GenAI-Task(Assignment%2028)-Shrivinayak_Birla) |
+| **Assignment 29** | Q&A Chatbot (OpenAI & Ollama) | Closed-Source APIs vs Local Models, Model Switching, CLI & Streamlit UI | [`Assignment 29`](./GenAI-Task(Assignment%2029)-Shrivinayak_Birla) |
+| **Assignment 30** | Chat Groq RAG with Streamlit UI | Ultra-Low Latency Inference, ChromaDB RAG, Document Ingestion, Streamlit Interactive Chat | [`Assignment 30`](./GenAI-Task(Assignment%2030)-Shrivinayak_Birla) |
+| **Assignment 31** | Conversational PDF Q&A Chatbot with History | Multi-Page PDF Ingestion, ChromaDB RAG, Message History & Trimming, Streamlit UI | [`Assignment 31`](./GenAI-Task(Assignment%2031)-Shrivinayak_Birla) |
+| **Assignment 32** | AI Agents using LangChain | Custom Tools & Toolkits, Tool Binding, Tool Calling Flow, ReAct Agent Architecture | [`Assignment 32`](./GenAI-Task(Assignment%2032)-Shrivinayak_Birla) |
+| **Assignment 33** | Chat with SQL Database | SQLite DB, SQLAlchemy Engine, MySQL Workbench, SQLDatabaseToolkit, SQL Agent, Safety Guardrails | [`Assignment 33`](./GenAI-Task(Assignment%2033)-Shrivinayak_Birla) |
+| **Assignment 34** | Text Summarization | PromptTemplate, Stuff Chain, Map-Reduce Chain, Refine Chain, Unified Summarizer | [`Assignment 34`](./GenAI-Task(Assignment%2034)-Shrivinayak_Birla) |
+| **Assignment 35** | Text-to-Math Agent | Word Problem Solver, ReAct Agent, Calculator Tool, Streamlit Session State | [`Assignment 35`](./GenAI-Task(Assignment%2035)-Shrivinayak_Birla) |
+| **Assignment 36** | HuggingFace Integration with LangChain | Open-Source Models, Direct Inference, LangChain Endpoint Wrappers, ChatPromptTemplate vs Normal Prompt | [`Assignment 36`](./GenAI-Task(Assignment%2036)-Shrivinayak_Birla) |
+| **Assignment 37** | AstraDB Cloud Vector Database & RAG | DataStax AstraDB, PDF Chunking & Embeddings, Grounded Q&A, Session State | [`Assignment 37`](./GenAI-Task(Assignment%2037)-Shrivinayak_Birla) |
+| **Assignment 38** | CodeLlama Developer Assistant (Ollama) | Code Generation, Code Explanation, Bug Fixing, Code Optimization, Streamlit UI | [`Assignment 38`](./GenAI-Task(Assignment%2038)-Shrivinayak_Birla) |
+| **Assignment 39** | GenAI App Deployment | Streamlit Community Cloud, Hugging Face Spaces, YAML Config, CI/CD, Platform Comparison | [`Assignment 39`](./GenAI-Task(Assignment%2039)-Shrivinayak_Birla) |
+
+
+
+
+
+---
+
+## 🚀 How to Run
+
+Navigate into any assignment directory to execute individual task scripts:
+
+```bash
+# Example: Run Assignment 7 (OOP Mini Project)
+cd "GenAI-Task(Assignment 7)-Shrivinayak_Birla"
+python3 task7.py
+
+# Example: Run Assignment 8 (Streamlit Basic App)
+cd "GenAI-Task(Assignment 8)-Shrivinayak_Birla"
+streamlit run app_basic.py
+```
+
+Or execute any task script directly using `python3` or `streamlit`:
+
+```bash
+python3 "GenAI-Task(Assignment 1)-Shrivinayak_Birla/main.py"
+python3 "GenAI-Task(Assignment 6)-Shrivinayak_Birla/task1_safe_division.py"
+python3 "GenAI-Task(Assignment 7)-Shrivinayak_Birla/task7.py"
+streamlit run "GenAI-Task(Assignment 8)-Shrivinayak_Birla/app_basic.py"
+```
+
+---
+
+## 💡 Key Highlights & Code Authenticity
+
+- **Pure Python & Streamlit Libraries:** Clean, beginner-friendly solutions demonstrating core concepts.
+- **Structured Learning:** Concepts progress systematically from fundamental syntax to web interface design.
+- **Detailed Documentation:** Every assignment folder includes a dedicated `README.md` explaining the implementation of each task.
+
